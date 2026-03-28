@@ -1,4 +1,4 @@
-package 字串;
+package 子串;
 
 import java.util.Deque;
 import java.util.LinkedList;
